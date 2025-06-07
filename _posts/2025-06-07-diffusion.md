@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "How does the Gaussian transition rule lead to an explicit equation for $X_t$?"
 date: 2025-06-07
 math: true
