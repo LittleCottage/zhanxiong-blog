@@ -325,3 +325,6 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# For math 
+head_scripts: head-custom
