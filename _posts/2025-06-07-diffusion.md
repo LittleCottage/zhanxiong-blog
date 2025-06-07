@@ -2,7 +2,7 @@
 layout: default
 title: "How does the Gaussian transition rule lead to an explicit equation for $X_t$?"
 date: 2025-06-07
-mathjax: true
+math: true
 tags: [math, statistics, machine learning]
 ---
 
