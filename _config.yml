@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -113,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Zhanxiong Xu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Maineville, OH"
+  email            : "zux106@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
