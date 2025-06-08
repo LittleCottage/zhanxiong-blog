@@ -329,4 +329,4 @@ defaults:
       related: true
 
 # For math 
-head_scripts: head-custom
+head_scripts: mathjax-custom
