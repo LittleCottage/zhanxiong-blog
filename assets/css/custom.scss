@@ -1,14 +1,14 @@
-.custom-font {
+.layout--math {
   font-size: 0.95rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
 
-  // Optional: scale down headings too
-  h1 {
-    font-size: 1.5rem;
-  }
-  h2 {
-    font-size: 1.25rem;
-  }
-  h3 {
-    font-size: 1.1rem;
+  h1 { font-size: 1.6rem; }
+  h2 { font-size: 1.3rem; }
+  h3 { font-size: 1.1rem; }
+
+  .mjx-container {
+    font-size: 100% !important;
   }
 }
