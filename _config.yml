@@ -327,6 +327,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-# For math 
-head_scripts: mathjax-custom
