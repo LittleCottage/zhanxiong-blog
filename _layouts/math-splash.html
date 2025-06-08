@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article class="page layout--math">
+  {% if page.header %}
+    {% include page__header.html %}
+  {% endif %}
+  <div class="page__inner-wrap">
+    <section class="page__content" itemprop="text">
+      {{ content }}
+    </section>
+  </div>
+</article>
